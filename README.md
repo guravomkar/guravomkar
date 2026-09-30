@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&animation=fadeIn&customColorList=0,12,20,30,40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=transparent&height=120&section=header&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">Hello, I am Omkar Gurav 👋</h1>
@@ -90,5 +90,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&animation=fadeIn&customColorList=0,12,20,30,40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=transparent&height=120&section=footer&animation=fadeIn" width="100%" />
 </p>
