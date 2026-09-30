@@ -1,8 +1,8 @@
-<h1 align="center">Hello, I am Omkar Gurav 👋</h1>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,30,40&height=120&section=header&animation=fadeIn" width="100%" />
 </p>
+
+<h1 align="center">Hello, I am Omkar Gurav 👋</h1>
 
 ---
 
@@ -85,4 +85,10 @@
   <a href="https://linkedin.com/in/omkar-gurav-8b8a10260" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:guravomkar808@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,12,0&height=100&section=footer&animation=fadeIn" width="100%" />
 </p>
