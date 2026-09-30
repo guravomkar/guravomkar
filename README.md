@@ -1,12 +1,10 @@
+<h1 align="center">Hello, I am Omkar Gurav 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553dd.gif" width="100%" alt="Banner">
 </p>
 
-<div align="center">
-
-# Hello, I am Omkar Gurav 👋
-
-</div>
+---
 
 ### 🛠️ My Tech Stack
 
@@ -79,15 +77,12 @@
 - **[HelpGPT](https://github.com/guravomkar/helpgpt)** — Full-stack AI-powered chat assistant featuring a unified monorepo architecture and asynchronous JSON APIs.
 - **[QuantEdge](https://github.com/guravomkar/quantedge)** — Full-stack algorithmic stock trading simulator platform with real-time portfolio tracking.
 
+---
+
 ### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/omkar-gurav-8b8a10260" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="mailto:guravomkar808@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30" width="40" /></a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <a href="https://instagram.com/__omkargurav__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
