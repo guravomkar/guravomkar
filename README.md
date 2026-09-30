@@ -90,5 +90,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,12,0&height=100&section=footer&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,20,12,0&height=120&section=footer&animation=fadeIn" width="100%" />
 </p>
