@@ -77,7 +77,8 @@
 ### 🚀 Featured Projects
 
 - **[HelpGPT](https://github.com/guravomkar/helpgpt)** — Full-stack AI-powered chat assistant featuring a unified monorepo architecture and asynchronous JSON APIs.
-- **[Med-Synth AI](https://github.com/guravomkar/med-synth-ai)** — Healthcare data synthesis platform featuring CTGAN/TVAE generative modeling, a Streamlit interface, and a Supabase backend.
+- **[Med-Synth AI](https://github.com/guravomkar/med-synth-ai)** — Healthcare
+  backend data synthesis platform featuring CTGAN/TVAE generative modeling and a Streamlit interface.
 
 ---
 
