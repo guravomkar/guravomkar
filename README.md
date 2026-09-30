@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&animation=fadeIn" width="100%" />
 </p>
 
-<div align="center">
-
-# Hello, I am Omkar Gurav 👋
-
-</div>
+<h1 align="center">
+  Hello, I am <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&lines=Omkar+Gurav" alt="Typing SVG" />
+</h1>
 
 ---
 
